@@ -1,5 +1,4 @@
 
-
 #include <stdio.h>
 int main()
 {
@@ -27,4 +26,5 @@ int main()
     }
   printf("Rs. %.2f",amt + (0.20*amt));
   }
+
 }
